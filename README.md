@@ -27,5 +27,7 @@ SET GLOBAL max_allowed_packet = 1073741824 ;
 	- Custom homepage increased Conversion funnel
 	- New billing page also managed to bring more profit
 
+<h4>Second part of the analysis can be found in the pertinent folder. The overall context resembles the first part</h4>
+
 
 ![Alt text](DB_Structure.png?raw=true)
